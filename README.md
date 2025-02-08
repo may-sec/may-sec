@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="mayank | Linkedin" width="22px" src="https://img.icons8.com/?size=100&id=85044&format=png&color=000000" />][Linkedin]
+[<img align="left" alt="mayank | Linkedin" width="22px" src="https://img.icons8.com/?size=100&id=447&format=png&color=000000" />][Linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mayank---rawat/
 
