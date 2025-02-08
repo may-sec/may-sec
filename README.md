@@ -11,11 +11,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="mayank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mayank | Instagram" width="22px" src="https://www.streamlinehq.com/icons/download/tryhackme--31088" />][tryhackme]
+[<img align="left" alt="mayank | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mayank---rawat/
-[tryhackme]: https://tryhackme.com/r/p/may.sec
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
