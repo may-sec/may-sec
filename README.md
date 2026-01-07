@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/mayank---rawat/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" />
   </a>
-  <img src="https://img.shields.io/badge/React-Frontend%20Developer-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success" />
+  <!-- <img src="https://img.shields.io/badge/React-Frontend%20Developer-61DAFB?logo=react&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success" /> -->
 </p>
 
 ---
@@ -104,7 +104,7 @@ I enjoy working with modern React tools, clean UI design, and efficient state ma
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mayank---rawat/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="22px" style="filter: invert(1);" />
   </a>
 </p>
 
