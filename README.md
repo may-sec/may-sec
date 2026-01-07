@@ -104,7 +104,7 @@ I enjoy working with modern React tools, clean UI design, and efficient state ma
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mayank---rawat/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="22px" style="filter: invert(1);" />
+    <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=white&style=flat" />
   </a>
 </p>
 
