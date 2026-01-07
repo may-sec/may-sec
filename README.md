@@ -17,7 +17,7 @@ I enjoy working with modern React tools, clean UI design, and efficient state ma
 
 ---
 
-## 🚀 Featured React Projects
+## 🚀 [Featured React Projects](https://may-web-projects.vercel.app/)
 
 ### ✅ Todo Complete App (Full-Stack)
 🛠 **React · Node.js · Express · MongoDB · JWT · Zod**
@@ -71,10 +71,7 @@ I enjoy working with modern React tools, clean UI design, and efficient state ma
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5 / CSS3
-- Tailwind CSS
+- React.js - JavaScript (ES6+) - HTML5 / CSS3 - Tailwind CSS
 
 ### 🧠 State & Data
 - React Hooks & Custom Hooks
